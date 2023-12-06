@@ -1,0 +1,7 @@
+[workspace]
+resolver = "2"
+members = ["ch01", "ch02","ch09_structs", "ch10_enums_and_patterns", "ch11_traits_and_generics", 
+             "ch03_fundamentals", "ch04_ownership", "ch05_references", "ch06_expressions",
+            "ch07_errors", "ch08_crates_modules", "ch12_overloading", "ch13_utility_traits", "ch14_closures",
+            "ch15_iterators", "ch16_collections", "ch17_strings", "ch18_io", "ch19_concurrency", "ch20_async",
+            "ch21_macros", "ch22_unsafe_code", "ch23_foreign_functions", "build_server"]

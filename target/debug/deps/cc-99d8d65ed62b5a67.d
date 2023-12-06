@@ -1,0 +1,10 @@
+/Users/hemantkgupta/Library/CloudStorage/OneDrive-Personal/My-Mac-16/all-code/rust-work/ws-prog-rust-2nd/target/debug/deps/libcc-99d8d65ed62b5a67.rmeta: /Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/lib.rs /Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe.rs /Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe/unix.rs /Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/windows_registry.rs
+
+/Users/hemantkgupta/Library/CloudStorage/OneDrive-Personal/My-Mac-16/all-code/rust-work/ws-prog-rust-2nd/target/debug/deps/libcc-99d8d65ed62b5a67.rlib: /Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/lib.rs /Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe.rs /Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe/unix.rs /Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/windows_registry.rs
+
+/Users/hemantkgupta/Library/CloudStorage/OneDrive-Personal/My-Mac-16/all-code/rust-work/ws-prog-rust-2nd/target/debug/deps/cc-99d8d65ed62b5a67.d: /Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/lib.rs /Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe.rs /Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe/unix.rs /Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/windows_registry.rs
+
+/Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/lib.rs:
+/Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe.rs:
+/Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/os_pipe/unix.rs:
+/Users/hemantkgupta/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cc-1.0.83/src/windows_registry.rs:

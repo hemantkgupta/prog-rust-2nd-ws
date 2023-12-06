@@ -1,0 +1,13 @@
+prefix=/Users/hemantkgupta/Library/CloudStorage/OneDrive-Personal/My-Mac-16/all-code/rust-work/ws-prog-rust-2nd/target/debug/build/libz-sys-5e18bccc920074aa/out
+exec_prefix=@exec_prefix@
+libdir=@libdir@
+sharedlibdir=@sharedlibdir@
+includedir=@includedir@
+
+Name: zlib
+Description: zlib compression library
+Version: @VERSION@
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
