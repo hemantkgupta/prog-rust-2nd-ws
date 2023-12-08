@@ -965,6 +965,10 @@ dependencies = [
 ]
 
 [[package]]
+name = "integration_testing"
+version = "0.1.0"
+
+[[package]]
 name = "io-lifetimes"
 version = "1.0.11"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -1739,6 +1743,10 @@ dependencies = [
  "rustix 0.38.26",
  "windows-sys 0.48.0",
 ]
+
+[[package]]
+name = "testing"
+version = "0.1.0"
 
 [[package]]
 name = "tinyvec"

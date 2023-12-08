@@ -13,6 +13,9 @@ use crate::adapter1::adapter1_work;
 mod iterator4;
 use crate::iterator4::iterator4_work;
 
+mod iterators_book;
+use crate::iterators_book::iterators_book_work;
+
 
 fn main() {
     println!("Hello, world!");
@@ -21,4 +24,5 @@ fn main() {
     iterator3_work();
     adapter1_work();
     iterator4_work();
+    iterators_book_work();
 }
